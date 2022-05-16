@@ -1,0 +1,31 @@
+* {
+  text-align: center;
+}
+.success {
+  text-decoration: line-through;
+}
+
+.cont {
+  background-color: bisque;
+  text-align: center;
+  margin: 100px 200px;
+  padding: 50px;
+  
+
+}
+#b1{
+  color: rgb(31, 16, 16);
+  background-color: aqua;
+  border-radius: 5rem;
+  border-style: none;
+  margin: 5px;
+  padding: 10px;
+}
+#b2{
+  color: rgb(31, 16, 16);
+  background-color: aqua;
+  border-radius: 5rem;
+  border-style: none;
+  margin: 5px;
+  padding: 10px;
+}
